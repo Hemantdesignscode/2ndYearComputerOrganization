@@ -1,0 +1,10 @@
+﻿  Assembling Kosaraju2.asm...
+Kosaraju2.asm(2): error A2008: syntax error : .
+Kosaraju2.asm(3): error A2008: syntax error : .
+Kosaraju2.asm(4): error A2008: syntax error : .
+Kosaraju2.asm(6): error A2008: syntax error : ,
+Kosaraju2.asm(20): error A2008: syntax error : Invoke
+Kosaraju2.asm(23): error A2008: syntax error : main
+Kosaraju2.asm(23): error A2088: END directive required at end of file
+Kosaraju2.asm(18): error A2022: instruction operands must be the same size
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Kosaraju2.obj" /W3 /errorReport:prompt  /TaKosaraju2.asm" exited with code 1.
