@@ -1,0 +1,8 @@
+﻿  Assembling Lab7b_OffSet_Operator.asm...
+Lab7b_OffSet_Operator.asm(2): error A2008: syntax error : .
+Lab7b_OffSet_Operator.asm(3): error A2008: syntax error : .
+Lab7b_OffSet_Operator.asm(4): error A2008: syntax error : .
+Lab7b_OffSet_Operator.asm(6): error A2008: syntax error : ,
+Lab7b_OffSet_Operator.asm(25): error A2008: syntax error : main
+Lab7b_OffSet_Operator.asm(25): error A2088: END directive required at end of file
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Lab7b_OffSet_Operator.obj" /W3 /errorReport:prompt  /TaLab7b_OffSet_Operator.asm" exited with code 1.

@@ -1,0 +1,9 @@
+﻿  Assembling Lab7d_Checking_Memory_Data.asm...
+Lab7d_Checking_Memory_Data.asm(2): error A2008: syntax error : .
+Lab7d_Checking_Memory_Data.asm(3): error A2008: syntax error : .
+Lab7d_Checking_Memory_Data.asm(4): error A2008: syntax error : .
+Lab7d_Checking_Memory_Data.asm(6): error A2008: syntax error : ,
+Lab7d_Checking_Memory_Data.asm(21): error A2008: syntax error : Invoke
+Lab7d_Checking_Memory_Data.asm(24): error A2008: syntax error : main
+Lab7d_Checking_Memory_Data.asm(24): error A2088: END directive required at end of file
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Lab7d_Checking_Memory_Data.obj" /W3 /errorReport:prompt  /TaLab7d_Checking_Memory_Data.asm" exited with code 1.

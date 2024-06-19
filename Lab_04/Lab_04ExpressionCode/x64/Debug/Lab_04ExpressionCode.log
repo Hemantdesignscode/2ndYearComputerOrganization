@@ -1,0 +1,8 @@
+﻿  Assembling ComputerScience3210_Lab_04.asm...
+ComputerScience3210_Lab_04.asm(1): error A2008: syntax error : .
+ComputerScience3210_Lab_04.asm(2): error A2008: syntax error : .
+ComputerScience3210_Lab_04.asm(3): error A2008: syntax error : .
+ComputerScience3210_Lab_04.asm(4): error A2008: syntax error : ,
+ComputerScience3210_Lab_04.asm(12): error A2088: END directive required at end of file
+ComputerScience3210_Lab_04.asm(12): fatal error A1010: unmatched block nesting : main
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\ComputerScience3210_Lab_04.obj" /W3 /errorReport:prompt  /TaComputerScience3210_Lab_04.asm" exited with code 1.

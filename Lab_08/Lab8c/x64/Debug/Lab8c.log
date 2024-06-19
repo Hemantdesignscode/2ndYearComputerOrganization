@@ -1,0 +1,9 @@
+﻿  Assembling Lab8c_LogicalInstructions.asm...
+Lab8c_LogicalInstructions.asm(2): error A2008: syntax error : .
+Lab8c_LogicalInstructions.asm(3): error A2008: syntax error : .
+Lab8c_LogicalInstructions.asm(4): error A2008: syntax error : .
+Lab8c_LogicalInstructions.asm(6): error A2008: syntax error : ,
+Lab8c_LogicalInstructions.asm(20): error A2008: syntax error : Invoke
+Lab8c_LogicalInstructions.asm(23): error A2008: syntax error : main
+Lab8c_LogicalInstructions.asm(23): error A2088: END directive required at end of file
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Lab8c_LogicalInstructions.obj" /W3 /errorReport:prompt  /TaLab8c_LogicalInstructions.asm" exited with code 1.

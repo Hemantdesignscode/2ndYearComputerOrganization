@@ -1,0 +1,9 @@
+﻿  Assembling Lab6c_XCHG_instruction.asm...
+Lab6c_XCHG_instruction.asm(2): error A2008: syntax error : .
+Lab6c_XCHG_instruction.asm(3): error A2008: syntax error : .
+Lab6c_XCHG_instruction.asm(4): error A2008: syntax error : .
+Lab6c_XCHG_instruction.asm(6): error A2008: syntax error : ,
+Lab6c_XCHG_instruction.asm(19): error A2008: syntax error : Invoke
+Lab6c_XCHG_instruction.asm(21): error A2008: syntax error : main
+Lab6c_XCHG_instruction.asm(21): error A2088: END directive required at end of file
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Lab6c_XCHG_instruction.obj" /W3 /errorReport:prompt  /TaLab6c_XCHG_instruction.asm" exited with code 1.
